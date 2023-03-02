@@ -1,6 +1,7 @@
 # Post To Channel Slackbot
 
-This is a basic workflow that allows posting a message to a Slack channel via webhook, based off Slack's recommended scaffold.
+This is a basic workflow that allows posting a message to a Slack channel via
+webhook, based off Slack's recommended scaffold.
 
 **Guide Outline**:
 
