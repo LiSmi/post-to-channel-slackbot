@@ -1,7 +1,6 @@
-# Deno Starter Template
+# Post To Channel Slackbot
 
-This is a scaffolded Deno template used to build out Slack apps using the Slack
-CLI.
+This is a basic workflow that allows posting a message to a Slack channel via webhook, based off Slack's recommended scaffold.
 
 **Guide Outline**:
 
